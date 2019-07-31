@@ -1,0 +1,57 @@
+officename,pincode,officeType,Deliverystatus,divisionname,regionname,circlename,Taluk,Districtname,statename,Telephone,Related Suboffice,Related Headoffice,longitude,latitude
+Arabic College S.O,560045,S.O,Delivery,Bangalore East,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-25432636,NA,Bangalore G.P.O. ,77.6206,13.0291
+Bellandur S.O,560103,S.O,Delivery,Bangalore East,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,080-28441625,NA,H.A.L II Stage H.O,77.676,12.9298
+Domlur S.O,560071,S.O,Delivery,Bangalore East,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-25356966,NA,H.A.L II Stage H.O,77.6359,12.9611
+Dr. Shivarama Karanth Nagar S.O,560077,S.O,Delivery,Bangalore East,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,NA,NA,Bangalore G.P.O. ,77.6293,13.0681
+Fraser Town S.O,560005,S.O,Delivery,Bangalore East,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-25485125,NA,Bangalore G.P.O. ,77.6164,13.0005
+G.K.V.K. S.O,560065,S.O,Delivery,Bangalore East,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-23621550,NA,R T Nagar H.O,77.5784,13.0781
+H.A.L II Stage H.O,560008,H.O,Delivery,Bangalore East,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-25270153,NA,NA,77.6427,12.9686
+HighCourt S.O,560001,S.O,Non-Delivery,Bangalore East,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-22862310,NA,Bangalore G.P.O. ,77.5915,12.9773
+Jeevanbhimanagar S.O,560075,S.O,Non-Delivery,Bangalore East,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-25264846,NA,H.A.L II Stage H.O,77.6535,12.9695
+Kothanur S.O,560077,S.O,Non-Delivery,Bangalore East,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-28465057,NA,Bangalore G.P.O. ,77.6478,13.0614
+Mahatma Gandhi Road S.O,560001,S.O,Non-Delivery,Bangalore East,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-25587270,NA,Bangalore G.P.O. ,77.61,12.9739
+Marathahalli Colony S.O,560037,S.O,Delivery,Bangalore East,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-25227887,NA,H.A.L II Stage H.O,77.688,12.9559
+NAL S.O,560017,S.O,Non-Delivery,Bangalore East,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-25203596,NA,H.A.L II Stage H.O,77.6502,12.9596
+New Thippasandra S.O,560075,S.O,Delivery,Bangalore East,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-25297196,NA,H.A.L II Stage H.O,77.6572,12.9716
+Sadashivanagar S.O,560080,S.O,Delivery,Bangalore East,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-23611278,NA,R T Nagar H.O,77.5772,13.0094
+Sahakaranagar P.O S.O,560092,S.O,Delivery,Bangalore East,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-22925904,NA,R T Nagar H.O,77.588,13.0621
+Vimanapura S.O,560017,S.O,Delivery,Bangalore East,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-25231573,NA,H.A.L II Stage H.O,77.6679,12.9585
+Yelahanka S.O,560064,S.O,Delivery,Bangalore East,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-28460030,NA,R T Nagar H.O,77.5975,13.0958
+Yelahanka Satellite Town S.O,560064,S.O,Non-Delivery,Bangalore East,Bangalore HQ,Karnataka,NA,Bangalore,KARNATAKA,080-28460072,NA,R T Nagar H.O,77.58,13.0946
+Bangalore G.P.O. ,560001,H.O,Delivery,Bangalore GPO,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-22868652,NA,NA,77.5955,12.9814
+Ashoknagar S.O (Bangalore),560050,S.O,Non-Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,080-26601302,NA,Jayanagar H.O,77.5645,12.9377
+B Sk II Stage S.O,560070,S.O,Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,080-26712632,NA,Jayanagar H.O,77.5695,12.9265
+Bannerghatta Road S.O,560076,S.O,Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,080-26582288,NA,Jayanagar H.O,77.5997,12.8976
+Basavanagudi H.O,560004,H.O,Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,080-26612250,NA,NA,77.5741,12.9446
+Bommanahalli S.O (Bangalore),560068,S.O,Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,080-25726381,NA,Jayanagar H.O,77.6311,12.9068
+Bommasandra Industrial Estate S.O,560099,S.O,Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,080-7832176,NA,Jayanagar H.O,77.6878,12.8203
+Carmelram S.O,560035,S.O,Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,080-28439920,NA,Basavanagudi H.O,77.6937,12.9078
+Chandapura S.O,560081,S.O,Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore,Bangalore,KARNATAKA,NA,NA,Jayanagar H.O,77.7041,12.8016
+Dharmaram College S.O,560029,S.O,Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,080-26566422,NA,Jayanagar H.O,77.5684,12.9352
+Electronics City S.O,560100,S.O,Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,080-28520119,NA,Jayanagar H.O,77.6626,12.84
+Gottigere S.O,560083,S.O,Non-Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,NA,NA,Jayanagar H.O,77.5883,12.8564
+HSR Layout S.O,560102,S.O,Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,080-25720744,NA,Basavanagudi H.O,77.6382,12.9152
+Hulimavu S.O,560076,S.O,Non-Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore,Bangalore,KARNATAKA,NA,NA,Jayanagar H.O,77.6022,12.885
+J P Nagar S.O,560078,S.O,Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,080-26592476,NA,Jayanagar H.O,77.5868,12.9119
+Jayanagar H.O,560041,H.O,Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,080-22440303,NA,NA,77.586,12.9237
+Jayangar III Block S.O,560011,S.O,Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,080-22440721,NA,Jayanagar H.O,77.5835,12.9304
+JP Nagar III Phase S.O,560078,S.O,Non-Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,080-26593880,NA,Jayanagar H.O,77.5976,12.9139
+Koramangala VI Bk S.O,560095,S.O,Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,080-25502660,NA,Basavanagudi H.O,77.6186,12.9384
+Mico Layout S.O,560076,S.O,Non-Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,080-2783811,NA,Jayanagar H.O,77.6099,12.9103
+Padmanabhnagar S.O,560070,S.O,Non-Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,080-26698674,NA,Jayanagar H.O,77.5576,12.9176
+St. John's Medical College S.O,560034,S.O,Non-Delivery,Bangalore South,Bangalore HQ,Karnataka,Bangalore South,Bangalore,KARNATAKA,080-25523681,NA,Basavanagudi H.O,77.6262,12.9277
+Gayathrinagar S.O,560021,S.O,Non-Delivery,Bangalore West,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-23523802,NA,Rajajinagar H.O,77.5581,13.001
+Jalahalli East S.O,560014,S.O,Delivery,Bangalore West,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-28389771,NA,Jalahalli H.O,77.5463,13.0728
+Jalahalli H.O,560013,H.O,Delivery,Bangalore West,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-28387040,NA,NA,77.5539,13.0506
+Mahalakshmipuram Layout S.O,560086,S.O,Delivery,Bangalore West,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-23596690,NA,Rajajinagar H.O,77.5466,13.0108
+Malleswaram S.O,560003,S.O,Delivery,Bangalore West,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-23469418,NA,Rajajinagar H.O,77.5709,13.0002
+Malleswaram West S.O,560055,S.O,Delivery,Bangalore West,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-23564240,NA,Rajajinagar H.O,77.5629,13.0089
+Mathikere S.O,560054,S.O,Non-Delivery,Bangalore West,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-23478720,NA,Jalahalli H.O,77.5576,13.0403
+Msrit S.O,560054,S.O,Delivery,Bangalore West,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-23605413,NA,Jalahalli H.O,77.5642,13.0298
+Palace Guttahalli S.O,560003,S.O,Non-Delivery,Bangalore West,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-23466460,NA,Rajajinagar H.O,77.5819,12.9993
+Rajajinagar H.O,560010,H.O,Delivery,Bangalore West,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-23325651,NA,NA,77.5545,12.9932
+Rajajinagar IVth Block S.O,560010,S.O,Non-Delivery,Bangalore West,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-23528327,NA,Rajajinagar H.O,77.5612,12.9831
+Swimming Pool Extn S.O,560003,S.O,Non-Delivery,Bangalore West,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-23465562,NA,Rajajinagar H.O,77.574,12.9968
+Vidyaranyapura S.O,560097,S.O,Delivery,Bangalore West,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-23646777,NA,Jalahalli H.O,77.5575,13.076
+Vyalikaval Extn S.O,560003,S.O,Non-Delivery,Bangalore West,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-23362629,NA,Rajajinagar H.O,77.5769,13.004
+Yeswanthpura S.O,560022,S.O,Delivery,Bangalore West,Bangalore HQ,Karnataka,Bangalore North,Bangalore,KARNATAKA,080-23371415,NA,Jalahalli H.O,77.5562,13.0197
